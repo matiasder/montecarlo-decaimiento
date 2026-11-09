@@ -1,0 +1,13 @@
+# Archivos de R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Rdata
+.Ruserdata
+.httr-oauth
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+.Rproj.user
+.quarto
